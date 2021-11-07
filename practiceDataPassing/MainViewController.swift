@@ -24,6 +24,5 @@ class MainViewController: UIViewController {
             self.present(secondVC, animated: true)
         }
     }
-
 }
 
